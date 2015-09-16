@@ -28,7 +28,8 @@ body {
   border-radius: 8px;
   z-index: 1;
   overflow: hidden;
-  background-color: #000000; }
+  background-color: #000000;
+  outline: 1px solid transparent;}
 
 .shadow, .icon__settings .shadow, .icon__shows .shadow, .icon__music .shadow {
   position: absolute;

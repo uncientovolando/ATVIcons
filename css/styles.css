@@ -40,6 +40,7 @@ body {
   background-color: rgba(0, 0, 0, 0.3);
   -webkit-filter: blur(15px);
   -moz-filter: blur(15px);
+  filter: blur(15px);
   z-index: -1; }
 
 .glow, .icon__settings--base .glow, .icon__shows--base .glow, .icon__music--base .glow {
